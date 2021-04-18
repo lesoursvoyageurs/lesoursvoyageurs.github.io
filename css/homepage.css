@@ -1,0 +1,32 @@
+nav.menu-nav ul li.btn {
+  list-style-type: none;
+  display: inline-block;
+}
+nav.menu-nav ul li.btn a {
+  color: black;
+  text-decoration: none;
+  background-color: gray;
+  padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a {
+  background-color: white;
+  color: gray;
+  transition: 300ms all;
+}
+footer {
+  background-color: black;
+  color: #ffffff;
+}
+h1 {
+  font-weight: lighter;
+}
+h1 {
+  font-size: 50px;
+  font-weight: lighter;
+  padding-left: 40%;
+  opacity: 70%;
+  font-style: normal;
+}
+h1.lov {
+  background-image: image("img/BG.jpg");
+}
