@@ -16,16 +16,20 @@ nav.menu-nav ul li.btn:hover a {
 h1 {
   font-weight: lighter;
 }
-h1 {
+img {
   font-size: 50px;
   font-weight: lighter;
-  padding-left: 40%;
+  padding-left: 38%;
   opacity: 70%;
   font-style: normal;
 }
 p.infossurlapage {
   font-size: 35px;
+  padding-left: 31%;
 }
-h1.lovtitre {
-  background-color: gray;
+
+
+p.info2 {
+  font-size: 35px;
 }
+
