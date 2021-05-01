@@ -13,9 +13,9 @@ nav.menu-nav ul li.btn:hover a {
   color: gray;
   transition: 300ms all;
 }
-footer {
-  background-color: black;
-  color: #ffffff;
+footer{
+  padding-left: 38% ;
+  background-color: gray;
 }
 h1 {
   font-weight: lighter;
@@ -29,4 +29,11 @@ h1 {
 }
 h1.lov {
   background-image: image("img/BG.jpg");
+}
+img {
+  font-size: 50px;
+  font-weight: lighter;
+  padding-left: 38%;
+  opacity: 70%;
+  font-style: normal;
 }
