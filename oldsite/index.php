@@ -37,7 +37,10 @@
   <img src="img/logolesoursvoyageurs.png">
  <p class="bvn">
    Bienvenue sur Les Ours Voyageurs, notre site ou on postera toute les photos & Vidéos de nos voyages / vacances. 
- </p> 
+ </p>
+ 
+ 
+ 
  <footer>
    <p>
      Copyright © 2021 Les Ours Voyageurs - All Rights reserved
